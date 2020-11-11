@@ -1,0 +1,12 @@
+add name John, age 48, children true, sports squash running cycling
+add name Susan, age 35, sports running crossfit squash, children true
+add name Hannah, age 17, sports cycling
+add name Martin, children false
+add name Ali, children true, age 31, sports skiing cricket squash
+add name Joelle, age 22, sports tennis cricket, children true
+print
+children tennis
+children squash
+children
+children cycling
+children soccer
